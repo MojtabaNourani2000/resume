@@ -600,6 +600,9 @@ body:not(.user-is-tabbing) a:focus {
 .footer__social-image {
     height: 4rem;
 }
+.footer__social-image:hover {
+    opacity: 0.5;
+}
 
 .footer__github-buttons {
     display: flex;
